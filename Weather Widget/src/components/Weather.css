@@ -1,0 +1,26 @@
+.component__weather-box {
+    margin: 30px auto;
+    width: 420px;
+    border: 1px solid #de6042;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 5px 20px 1px #444;
+}
+
+.card-title {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0.75em;
+}
+
+.text-muted {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0.75em;
+}
